@@ -8,7 +8,7 @@ the tangent of the circle which traverses every corner of the n-polygon. You can
 
 
 ## Gallery
-Here is a small portion of interesting pattern that emerged during different configurations
+Here is a small portion of interesting orbital patterns that emerged during different configurations
 
 ![5 dynamic symmetric](media/5-dynamic.gif)
 
